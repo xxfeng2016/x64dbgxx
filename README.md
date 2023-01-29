@@ -1,4 +1,5 @@
 # x64dbg
+update to qt 5.15.2,vs2019
 
 <img width="100" src="https://github.com/x64dbg/x64dbg/raw/development/src/bug_black.png"/>
 
