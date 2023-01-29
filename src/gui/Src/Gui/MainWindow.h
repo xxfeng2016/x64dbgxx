@@ -2,7 +2,7 @@
 
 #include <QMainWindow>
 #include "Imports.h"
-
+#include "qmutex.h"
 class QDragEnterEvent;
 class QDropEvent;
 class CloseDialog;
